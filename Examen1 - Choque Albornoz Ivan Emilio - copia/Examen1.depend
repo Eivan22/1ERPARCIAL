@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1491536124 source:f:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1491538208 source:f:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491536192 f:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1491606794 source:i:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1491608314 source:i:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1491606796 i:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1491596154 source:c:\users\eivan\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1492991632 source:c:\users\eivan\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1491596154 c:\users\eivan\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1493425046 source:f:\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1493425184 source:f:\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1493421988 f:\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1494269126 source:f:\tp_laboratorio_1-master\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1494269348 source:f:\tp_laboratorio_1-master\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1494269416 f:\tp_laboratorio_1-master\tp_2_cascara\tp_2_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1494269442 source:f:\examen_prg1\examen1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1494291708 source:f:\examen_prg1\examen1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1494269440 f:\examen_prg1\examen1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1496093984 source:f:\lab i\parciales\examen_prg1\examen1 - choque albornoz ivan emilio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1496102860 source:f:\lab i\parciales\examen_prg1\examen1 - choque albornoz ivan emilio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1494269440 f:\lab i\parciales\examen_prg1\examen1 - choque albornoz ivan emilio\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1506536164 source:f:\lab i\parciales\examen_prg1\examen1 - choque albornoz ivan emilio - copia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506536174 f:\lab i\parciales\examen_prg1\examen1 - choque albornoz ivan emilio - copia\funciones.h
+
+1506534512 source:f:\lab i\parciales\examen_prg1\examen1 - choque albornoz ivan emilio - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506487226 f:\lab i\parciales\examen_prg1\examen1 - choque albornoz ivan emilio - copia\servicios.h
+
+1506540426 source:d:\eivan\examen_prg1\examen1 - choque albornoz ivan emilio - copia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1506536174 d:\eivan\examen_prg1\examen1 - choque albornoz ivan emilio - copia\funciones.h
+
+1506540460 source:d:\eivan\examen_prg1\examen1 - choque albornoz ivan emilio - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
